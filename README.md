@@ -1,5 +1,7 @@
 # Chronic Diseases — 90-day Deterioration Risk
 
+** Deployed Link ** - `https://chronic-patient-health-90d-forecast.streamlit.app`
+
 **Status:** prototype — **not for clinical use**. Read the *Limitations & Next Steps* section carefully.
 
 This repository contains the end-to-end prototype pipeline that converts raw Synthea CSVs into per-patient features, builds a strict model-ready dataset, trains a Random Forest baseline, generates explainability & diagnostic plots (SHAP, calibration, confusion matrix), and ships a Streamlit clinician UI for manual predictions.
