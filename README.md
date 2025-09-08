@@ -1,6 +1,6 @@
 # Chronic Diseases — 90-day Deterioration Risk
 
-** Deployed Link ** - `https://chronic-patient-health-90d-forecast.streamlit.app`
+**Deployed Link** - https://chronic-patient-health-90d-forecast.streamlit.app
 
 **Status:** prototype — **not for clinical use**. Read the *Limitations & Next Steps* section carefully.
 
